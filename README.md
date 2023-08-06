@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Shihong's%20GitHub&fontSize=70&animation=scaleIn)
 <!--
