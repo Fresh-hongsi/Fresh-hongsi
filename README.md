@@ -1,4 +1,4 @@
-
+<div align="center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Shihong's%20GitHub&fontSize=70&animation=scaleIn)
 <!--
 **Fresh-hongsi/Fresh-hongsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh-hongsi&layout=compact&theme=theme=nord)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtlghd97)](https://solved.ac/qkrtlghd97)
+</div>
