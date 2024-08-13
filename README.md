@@ -1,4 +1,4 @@
-<!--
+
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=FreshHongsi's%20GitHub&fontSize=70&animation=scaleIn)
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh-hongsi&layout=compact&theme=theme=nord)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtlghd97)](https://solved.ac/qkrtlghd97)
-
+<!--
 <div align=center><h2>📚Languages</h2></div>
 <div align=center> 
   
