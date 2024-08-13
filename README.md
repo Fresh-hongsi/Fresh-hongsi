@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=FreshHongsi's%20GitHub&fontSize=70&animation=scaleIn)
@@ -47,3 +48,4 @@ Here are some ideas to get you started:
   
 
 </div>
+-->
