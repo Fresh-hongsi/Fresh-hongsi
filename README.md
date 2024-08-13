@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 
 <!--[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fresh-hongsi&show_icons=true&theme=theme=nord)-->
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fresh-hongsi&layout=compact&theme=theme=nord)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrtlghd97)](https://solved.ac/qkrtlghd97)
+-->
 <!--
 <div align=center><h2>📚Languages</h2></div>
 <div align=center> 
